@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+
+    
+
+.header{
+background-color: skyblue;
+display:flex;
+justify-content: space-between;
+
+}
+.item{
+    color: magenta;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+.all{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align: center;
+}
